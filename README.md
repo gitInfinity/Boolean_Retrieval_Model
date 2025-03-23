@@ -73,7 +73,7 @@ Contributions are welcome! To contribute:
 For any questions, feedback, or contributions, please reach out via:  
 
 - **GitHub Issues**: If you're using GitHub Issues, users can report bugs and request features in the **"Issues"** tab of your repository.  
-- **Email**: [Your Email Here]  
+- **Email**: [rouhancyber123@gmail.com]  
 
 ---
 
